@@ -44,7 +44,11 @@ Spring Cloud로 개발하는 마이크로서비스 애플리케이션(MSA)
    <img width="2113" height="1184" alt="image" src="https://github.com/user-attachments/assets/2697d81a-de04-42fd-83be-f9e014337f17" />
 
    3. RESTful Web Service - Rest api를 사용함으로써 강력한 규칙을 적용해야한다.
+      - level3: 다음에 어떠한 동작을 해야하는지 정보를 얻을수 있다.
+      <img width="2118" height="1190" alt="image" src="https://github.com/user-attachments/assets/bdb0859c-939e-49dc-9558-b8c7f05df04c" />
+   4. RESTful Web Service
       
+   <img width="2127" height="1205" alt="image" src="https://github.com/user-attachments/assets/f3612d79-3a35-45ea-80a5-a7b58b128b82" />
 
 
 
