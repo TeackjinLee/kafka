@@ -32,5 +32,50 @@ Spring Cloud로 개발하는 마이크로서비스 애플리케이션(MSA)
   6. Polyglot Persistence
      <img width="2087" height="1233" alt="image" src="https://github.com/user-attachments/assets/0d3a03e2-41aa-492b-a7cc-0f99e34e5c7f" />
 
+11. Microservice Architecture Structures ➁
+    1. Service Mesh -> Network
+       - Service Discovery : 언제 서비스가 만들어졌고 그러한 서비스가 어디에 위치하고 있으며 해당하는 서비스를 호출하기 위해서 어떠한 방법을 선택해야 되는지 등등 이런 것들을 관리하는 것을 서비스 디스커버리
+       - Config.Store : 다음 각각의 마이크로서비스를 사용함에 있어서 환경 구성 정보가 필요하다고 하면 외부에 있는 스토리지를 별도로 사용해 줌으로써 각각의 마이크로서비스는 환경이라든가 어떠한 설정 정보를 변경함에 있어서 다시 배포하지 않도록 도와줄 수 있도록 우리는 Configuration 서비스를 외부에 두어서 사용
+       - Service Router
+       - LoadBalancing
+   <img width="2112" height="1181" alt="image" src="https://github.com/user-attachments/assets/d62e9ac0-5383-429a-a1d0-e9103ee1a95e" />
 
-<img width="2112" height="1181" alt="image" src="https://github.com/user-attachments/assets/d62e9ac0-5383-429a-a1d0-e9103ee1a95e" />
+   2. Service Mesh Capabilities
+   <img width="2113" height="1184" alt="image" src="https://github.com/user-attachments/assets/2697d81a-de04-42fd-83be-f9e014337f17" />
+
+   3. RESTful Web Service - Rest api를 사용함으로써 강력한 규칙을 적용해야한다.
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
