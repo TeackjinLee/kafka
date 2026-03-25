@@ -33,3 +33,4 @@ Spring Cloud로 개발하는 마이크로서비스 애플리케이션(MSA)
      <img width="2087" height="1233" alt="image" src="https://github.com/user-attachments/assets/0d3a03e2-41aa-492b-a7cc-0f99e34e5c7f" />
 
 
+<img width="2112" height="1181" alt="image" src="https://github.com/user-attachments/assets/d62e9ac0-5383-429a-a1d0-e9103ee1a95e" />
